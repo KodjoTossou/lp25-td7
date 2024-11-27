@@ -82,7 +82,7 @@ Tester l'exemple ci dessus puis parcourir et essayer de comprendre ce que vous r
 
 **Exercice 1**
 
-Séparer de la même manière que l'exemple, le code de résolution du polynôme du TP précédent, de celui du main.
+Séparer de la même manière que l'exemple, le code de résolution du polynôme du TD précédent, de celui du main.
 
 ## make et les Makefile
 
