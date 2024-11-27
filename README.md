@@ -120,7 +120,7 @@ Il est possible d'utiliser des motifs dont :
 
 **Exercice 3**
 
-Modifiez votre Makefile pour le rendre générique pour la compilation des fichiers objet. Testez le et pousser le sur le dépôt git.
+Modifiez votre Makefile pour le rendre générique pour la compilation des fichiers objet.
 
 **Observation**
 
