@@ -211,6 +211,3 @@ Dans ce TP, vous avez appris :
 - la libération avec `free` de mémoire obtenue dynamiquement par `malloc`
 - l'arithmétique des pointeurs
 - la fonction `strncpy` pour copier une chaîne de caractères avec une limite de taille
-
-
-### NB : TP proposé par Frédéric Lassabe
